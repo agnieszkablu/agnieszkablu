@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a Senior Front End / WordPress Developer with extensive experience in building responsive, performant, and pixel-perfect websites. With a strong background in front-end development, I excel in creating custom WordPress themes, designing user-friendly interfaces, and maintaining client relationships. My career has focused on working with international clients and remote teams to deliver high-quality, timely solutions.
+I'm a Front End / WordPress Developer with extensive experience in building responsive, performant, and pixel-perfect websites. With a strong background in front-end development, I excel in creating custom WordPress themes, designing user-friendly interfaces, and maintaining client relationships. My career has focused on working with international clients and remote teams to deliver high-quality, timely solutions.
 
 👀 Currently, I'm seeking new opportunities as a WordPress Developer focused on React-based block development or as a React.js Developer. I am eager to bring my expertise in WordPress, React, and front-end best practices to a dynamic and innovative team.
 
