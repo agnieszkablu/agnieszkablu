@@ -4,8 +4,6 @@
 
 📫 **Email:** sikora.au@gmail.com
 
-🌐 **Website** https://blucode.pl
-
 ---
 
 ## 👩‍💻 About Me
